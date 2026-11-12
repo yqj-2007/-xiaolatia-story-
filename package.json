@@ -1,0 +1,7 @@
+{
+  "name": "xiaolatiaо-quest-site",
+  "version": "1.0.0",
+  "private": true,
+  "description": "小辣条互动故事网站",
+  "scripts": { "start": "node server.js" }
+}
