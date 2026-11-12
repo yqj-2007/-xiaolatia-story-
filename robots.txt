@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://yqj-2007.github.io/-xiaolatia-story-/sitemap.xml
